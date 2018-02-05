@@ -1,0 +1,20 @@
+{
+  "name": "startup-signal-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "startup start -w 1 --dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justincy/startup-signal-debugging.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justincy/startup-signal-debugging/issues"
+  },
+  "homepage": "https://github.com/justincy/startup-signal-debugging#readme"
+}
